@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "smart-frigo-b578b",
+    "private_key_id": "55615a2aa3431fa898ba087122f2b6c7c3fcb6a9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDT/RSPVBbOvkOh\nT3Yf2pSVRijkbDvmmofI99RDdKQTCJgCNb0V7Mu6RqK07IMUgIqX5/kOu8XJsGdt\npC+twyp0bPf7syf+s/XY4iZQ4tiOyIsXMDdYiLqoaEKjhY8UmUQqb6KLTxLEM9cr\n7s/tO3uCe2l93UyDbbuIIAOma2i05OK9VWu2WY3T7iRlBG1X1QATypN6xvtk1q/v\nZDkL1lb0YAC3P1H3Jur2XKI+e0p0+5IeUmca+/TTJlDXu4uk2TV0kYBuKyDs4IwH\n4hUuS2HMzKTDH7gC/CF0p9YlKkyhpiVJQAH2aQCnx+wVSE0Z9uHznr4yGV79YyM2\n4yCuz9H9AgMBAAECggEAGtRokj1Tx6XH/HYInr502LGxAjv6ltSPA+3t1P3BuFD5\noCn5/Pjjzfcbp6dZbbJZGCG5YVZ9kWm8pWFG0YimambSOe5yTOes4V6597nGK8gQ\n5oXpM1DWwvKzIGwKcFJ3kKFhYp1G5EMlY/+NHFrPZnPFJbNo+CdeuTtICvuEHISy\ncfYSyWW955POFGj5lk7K+Y0iwZrvrLX4UQQRwRiPPiQs4nZVt4EAXp6kBqNvAdIt\nQgs+52DVNvt9XaGDW8TWWr20g+Y3qL4sA2bl6v8xC0VMPW/w+NzhB+XjMSuJ/UvY\nnWOd6Z0cYWwdLNezKcWT9xVmnPPAgEAfox3QS18vBwKBgQDzM5G4ObgkJ0cpHAQ1\nHQWwjpegXofkBivW0u/kiLFGiJON5lzlEcl2IDQ6XM8OZzEuynvrcscIEzkDalL3\ntUu0tEQIZnx9glPvGF+BwzENxBl7yFE2FO6cVp+D8pY+iGmfrqloes7ggY3vMgrC\nxMF8eeiuHtTQa/xmUtTEI9OjEwKBgQDfJQJJCdTmVshbIEovVQw6IvDMid5qykj6\nYf5/xzxyzws1k+/kVBkFDzmH3P+IFDxF6E7iahIPrYablhc8kSZSRJFUnEy8imP5\nD9PEyc4b2PlMPAA7YZiccRriBW7QHRl2nLnmAKfAjC9x4NowhR4CfXsPfk7GNyLf\nLFNEimJIrwKBgQDo2RgMlZ67ZqvYLU3N+JKI/40m6zsaU9pHXUB3w3RPvtXfh46r\nd4M2yRCYTGGmPaC2VwGcZREwpw7wOS1kozzvr6RvkohgtpZcFi7jE5p0vqtTe3Bd\n4l6uarVhZLL6/ip6y4TBVsuZ4hCd0oDBCBbkcegYRcamIq3O3kF95Xts5wKBgBG5\nyOKwaz8Y6bWDbSExalU77VDyKr7k7sMlAah41S5xj/xjkgzbOVmTighm382Zfeg3\nufx2XJTuPeEiHRpslVS3qavE9ruLasGgJjxdo4fGxpbttT8CU7MpsO7/a3wQs7Me\nZA4HQ0wiVqp/KBXunSGpghsK94r7WkPMK5koPQJ1AoGATYA3P6odxXBOABDEHgID\nmTTF2jZBJVRll/e6YLBaM3RbnsYCr/12l8nYTQ/OowwvHC9QpqzWNHUm/2a+Spib\nVZ7pBSsG66ombe5lQ2Lrlx7Ak0zVc1lL6jMSzcz/4HVV5eUSH6Daic4oxlhg3ra0\n1cSD8cYf+15dA1IkRnwl7es=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-3bxwc@smart-frigo-b578b.iam.gserviceaccount.com",
+    "client_id": "102866993119908023875",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3bxwc%40smart-frigo-b578b.iam.gserviceaccount.com"
+  }
+  
